@@ -1,1 +1,1 @@
-* Redhat certification path
+* [Redhat certification path](/red-hat-certification-path)
