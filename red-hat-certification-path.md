@@ -5,4 +5,4 @@ layout: default
 * TOC
 {:toc}
 
-{% include test.md %}
+{% include red-hat-certification-path.md %}
