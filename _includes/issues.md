@@ -1,0 +1,1 @@
+Please do [open issues](https://github.com/oussemos/placidweb.com/issues) or [pull requests](https://github.com/oussemos/placidweb.com/pulls/) for any errors you may find in the post and help me to improve it.
